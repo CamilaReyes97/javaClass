@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 1 - Programming Exercise">
-      <change afterPath="$PROJECT_DIR$/src/ChangeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InchesToFeet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 2 Assignment">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +66,7 @@
       <updated>1705721104694</updated>
       <workItem from="1705721105916" duration="1345000" />
       <workItem from="1706053661667" duration="3966000" />
-      <workItem from="1706237965166" duration="291000" />
+      <workItem from="1706237965166" duration="712000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -79,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705722283733</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Module 2 Assignment">
+      <option name="closed" value="true" />
+      <created>1706238340025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706238340025</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,14 +92,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module 1 - Programming Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 1 - Programming Exercise" />
+    <MESSAGE value="Module 2 Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2 Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>5</line>
+          <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
