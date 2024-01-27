@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 2 Assignment">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 2 - Individual Activity">
+      <change afterPath="$PROJECT_DIR$/src/ArithmeticComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +34,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArithmeticComparison.executor": "Run",
     "Application.ChangeCalculator.executor": "Run",
     "Application.InchesToFeet.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.myName.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -66,7 +69,8 @@
       <updated>1705721104694</updated>
       <workItem from="1705721105916" duration="1345000" />
       <workItem from="1706053661667" duration="3966000" />
-      <workItem from="1706237965166" duration="712000" />
+      <workItem from="1706237965166" duration="1417000" />
+      <workItem from="1706325856802" duration="868000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -84,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706238340025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Module 2 - Individual Activity">
+      <option name="closed" value="true" />
+      <created>1706238867204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706238867204</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +105,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Module 1 - Programming Exercise" />
     <MESSAGE value="Module 2 Assignment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2 Assignment" />
+    <MESSAGE value="Module 2 - Individual Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 2 - Individual Activity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
