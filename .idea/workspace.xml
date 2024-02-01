@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 2 - Programming Exercise">
-      <change afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class0130.java" afterDir="false" />
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 3 Assignment">
+      <change afterPath="$PROJECT_DIR$/src/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/change.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,7 @@
       <workItem from="1706237965166" duration="1417000" />
       <workItem from="1706325856802" duration="1652000" />
       <workItem from="1706658275157" duration="6315000" />
-      <workItem from="1706755782942" duration="1433000" />
+      <workItem from="1706755782942" duration="4318000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -111,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706326916323</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Module 3 Assignment">
+      <option name="closed" value="true" />
+      <created>1706757514498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706757514498</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +129,8 @@
     <MESSAGE value="Module 2 Assignment" />
     <MESSAGE value="Module 2 - Individual Activity" />
     <MESSAGE value="Module 2 - Programming Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 2 - Programming Exercise" />
+    <MESSAGE value="Module 3 Assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 3 Assignment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
