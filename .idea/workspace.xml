@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Project 1">
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level.java" afterDir="false" />
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 4 - Individual Activity">
+      <change afterPath="$PROJECT_DIR$/src/AbsoluteValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbsoluteValue.executor": "Run",
     "Application.ArithmeticComparison.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Change.executor": "Run",
@@ -85,7 +85,8 @@
       <workItem from="1706755782942" duration="5156000" />
       <workItem from="1706834906431" duration="955000" />
       <workItem from="1706928306441" duration="395000" />
-      <workItem from="1707263241531" duration="8025000" />
+      <workItem from="1707263241531" duration="8163000" />
+      <workItem from="1707448150221" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -167,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706835697444</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Module 4 - Individual Activity">
+      <option name="closed" value="true" />
+      <created>1707272573624</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707272573624</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,7 +189,8 @@
     <MESSAGE value="Module 2 - Programming Exercise" />
     <MESSAGE value="Module 3 Assignment" />
     <MESSAGE value="Project 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project 1" />
+    <MESSAGE value="Module 4 - Individual Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 4 - Individual Activity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
