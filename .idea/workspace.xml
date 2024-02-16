@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 4 - Individual Activity">
-      <change afterPath="$PROJECT_DIR$/src/AbsoluteValue.java" afterDir="false" />
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 4 - Programming Exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
     "Application.level.executor": "Run",
     "Application.level10.executor": "Run",
     "Application.myName.executor": "Run",
+    "Application.visitors.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -86,7 +86,8 @@
       <workItem from="1706834906431" duration="955000" />
       <workItem from="1706928306441" duration="395000" />
       <workItem from="1707263241531" duration="8163000" />
-      <workItem from="1707448150221" duration="332000" />
+      <workItem from="1707448150221" duration="767000" />
+      <workItem from="1708054129224" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -176,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707272573624</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Module 4 - Programming Exercise">
+      <option name="closed" value="true" />
+      <created>1707448664231</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707448664231</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +199,8 @@
     <MESSAGE value="Module 3 Assignment" />
     <MESSAGE value="Project 1" />
     <MESSAGE value="Module 4 - Individual Activity" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 4 - Individual Activity" />
+    <MESSAGE value="Module 4 - Programming Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 4 - Programming Exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
