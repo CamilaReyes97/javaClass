@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 4 - Programming Exercise">
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 5 - Individual Activity">
+      <change afterPath="$PROJECT_DIR$/src/SpaceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +43,7 @@
     "Application.CommissionCalculator.executor": "Run",
     "Application.InchesToFeet.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.SpaceChecker.executor": "Run",
     "Application.TestMovie.executor": "Run",
     "Application.change.executor": "Run",
     "Application.class0130.executor": "Run",
@@ -87,7 +90,8 @@
       <workItem from="1706928306441" duration="395000" />
       <workItem from="1707263241531" duration="8163000" />
       <workItem from="1707448150221" duration="767000" />
-      <workItem from="1708054129224" duration="328000" />
+      <workItem from="1708054129224" duration="1508000" />
+      <workItem from="1708473088531" duration="1199000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -185,7 +189,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707448664231</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Module 5 - Individual Activity">
+      <option name="closed" value="true" />
+      <created>1708054627422</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708054627422</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Module 5 - Individual Activity">
+      <option name="closed" value="true" />
+      <created>1708054713612</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708054713612</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,7 +220,8 @@
     <MESSAGE value="Project 1" />
     <MESSAGE value="Module 4 - Individual Activity" />
     <MESSAGE value="Module 4 - Programming Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 4 - Programming Exercise" />
+    <MESSAGE value="Module 5 - Individual Activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 5 - Individual Activity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
