@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 5 - Individual Activity">
-      <change afterPath="$PROJECT_DIR$/src/SpaceChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/clase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +91,7 @@
       <workItem from="1707448150221" duration="767000" />
       <workItem from="1708054129224" duration="1508000" />
       <workItem from="1708473088531" duration="1199000" />
+      <workItem from="1708657220784" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -205,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708054713612</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Module 5 - Individual Activity">
+      <option name="closed" value="true" />
+      <created>1708657533917</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708657533917</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
