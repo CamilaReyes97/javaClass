@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 5 - Individual Activity">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 5 - Individual Activity" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,41 +29,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbsoluteValue.executor": "Run",
-    "Application.ArithmeticComparison.executor": "Run",
-    "Application.Array.executor": "Run",
-    "Application.Change.executor": "Run",
-    "Application.ChangeCalculator.executor": "Run",
-    "Application.CommissionCalculator.executor": "Run",
-    "Application.HiLowGame.executor": "Run",
-    "Application.InchesToFeet.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PasswordStrengthChecker.executor": "Run",
-    "Application.SpaceChecker.executor": "Run",
-    "Application.StarPattern.executor": "Run",
-    "Application.TestMovie.executor": "Run",
-    "Application.change.executor": "Run",
-    "Application.class0130.executor": "Run",
-    "Application.level.executor": "Run",
-    "Application.level10.executor": "Run",
-    "Application.myName.executor": "Run",
-    "Application.visitors.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Camila Reyes/IdeaProjects/javaClass",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Camila Reyes/IdeaProjects/javaClass/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbsoluteValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Change.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommissionCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HiLowGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InchesToFeet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PasswordStrengthChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpaceChecker.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StarPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestMovie.executor&quot;: &quot;Run&quot;,
+    &quot;Application.change.executor&quot;: &quot;Run&quot;,
+    &quot;Application.class0130.executor&quot;: &quot;Run&quot;,
+    &quot;Application.level.executor&quot;: &quot;Run&quot;,
+    &quot;Application.level10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.myName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.visitors.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Camila Reyes/IdeaProjects/javaClass&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Camila Reyes/IdeaProjects/javaClass/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,6 +92,7 @@
       <workItem from="1708054129224" duration="1508000" />
       <workItem from="1708473088531" duration="1199000" />
       <workItem from="1708657220784" duration="1561000" />
+      <workItem from="1709087454203" duration="75000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
