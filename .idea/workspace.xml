@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="assigment 8">
+      <change afterPath="$PROJECT_DIR$/src/TryToParseDouble.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "Application.Change.executor": "Run",
     "Application.ChangeCalculator.executor": "Run",
     "Application.CommissionCalculator.executor": "Run",
+    "Application.DistanceFromAverage.executor": "Run",
     "Application.HiLowGame.executor": "Run",
     "Application.InchesToFeet.executor": "Run",
     "Application.Main.executor": "Run",
@@ -102,6 +103,7 @@
       <workItem from="1709262005685" duration="1086000" />
       <workItem from="1710383627718" duration="620000" />
       <workItem from="1711158342108" duration="1168000" />
+      <workItem from="1711584716714" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -279,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711158479774</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="assigment 8">
+      <option name="closed" value="true" />
+      <created>1711584863848</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1711584863848</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
