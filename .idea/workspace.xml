@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 11- Individual ACTIVITY">
-      <change afterPath="$PROJECT_DIR$/src/Publication.java" afterDir="false" />
-    </list>
+    <list default="true" id="34a32e44-430d-428b-b0b4-d93e7663afe3" name="Changes" comment="Module 11- Programming" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +108,7 @@
       <workItem from="1711584716714" duration="2269000" />
       <workItem from="1712104122441" duration="1913000" />
       <workItem from="1712711029070" duration="38000" />
-      <workItem from="1713311290054" duration="1064000" />
+      <workItem from="1713311290054" duration="1365000" />
     </task>
     <task id="LOCAL-00001" summary="Module 1 - Programming Exercise">
       <option name="closed" value="true" />
@@ -328,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713312088300</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Module 11- Programming">
+      <option name="closed" value="true" />
+      <created>1713312650314</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1713312650314</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +357,8 @@
     <MESSAGE value="Mini Project" />
     <MESSAGE value="Module 9" />
     <MESSAGE value="Module 11- Individual ACTIVITY" />
-    <option name="LAST_COMMIT_MESSAGE" value="Module 11- Individual ACTIVITY" />
+    <MESSAGE value="Module 11- Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 11- Programming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
